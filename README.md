@@ -1,6 +1,6 @@
 # Electrical Systems Training Curriculum
 
-A comprehensive, skill-based curriculum for electrical systems training—ideal for technical instructors, students, electromechanical technicians, and PLC programmers. This repository provides fully sequenced modules covering essential theory, practical wiring, schematics, controls, motor systems, and variable frequency drives.
+A comprehensive, skill-based curriculum for electrical systems training—ideal for technical instructors, students, electromechanical technicians, and PLC programmers. These are essential for anyone wanting to get a job in industrial manufacturing. This repository provides fully sequenced modules covering essential theory, practical wiring, schematics, controls, motor systems, and variable frequency drives.
 
 ---
 
