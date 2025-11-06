@@ -228,4 +228,129 @@ Label the parts of a digital multimeter using a classroom photo or diagram.
 - **Parallel circuit:** Each part connected across the same points, multiple paths.
 
 ![Series vs parallel circuit diagram](images/series-vs-parallel.png)  
-*
+*[Simple schematic with light bulbs for both types – see Wikipedia or AllAboutCircuits]*
+
+**Videos:**  
+- [Series and Parallel Circuits | Khan Academy](https://www.youtube.com/watch?v=Zy6PEK8bH_g)
+
+---
+
+### Objective 6: Describe the Voltage Characteristics in Series and Parallel Circuits
+- **Series:** Voltage divides among components.
+- **Parallel:** Each branch gets full voltage.
+
+**Activity 2:**  
+Compare measurements of voltage at different points in series vs parallel (show table or photos).
+
+---
+
+## Segment 3: Current Measurement
+
+### Objective 7: Define Current and Give Its Units of Measurement
+Current is the flow of electric charge—like the amount of water flowing in a river.  
+**Unit:** Ampere (A)
+
+![Current flow analogy](images/current-flow.png)  
+*[Diagram with arrow, label in amperes. See Physics.Info or SparkFun]*
+
+**Videos:**  
+- [What is Current? | ElectroBOOM](https://www.youtube.com/watch?v=a6b6U2vTeKo)
+
+---
+
+### Objective 8: Describe the Function of Two Types of Ammeters and Their Schematic Symbol
+Ammeters measure current.  
+- **Analog ammeter:** Needle display  
+- **Digital ammeter:** Numeric display  
+**Symbol:** Circle with "A" inside
+
+![Ammeters and circuit symbol](images/ammeter-symbol.jpg)  
+*[Use EdrawMax or Adobe Stock for schematic, real images]*
+
+**Videos:**  
+- [How to Use an Ammeter](https://www.youtube.com/watch?v=katsdAztvks)
+
+---
+
+### Objective 9: Describe How to Use an Ammeter to Measure Current
+Insert ammeter in series with circuit—so electrons flow through it.
+
+![Ammeter setup in a circuit](images/ammeter-in-circuit.jpg)  
+*[Breadboard photo or diagram from wikiHow or AllAboutCircuits]*
+
+**Videos:**  
+- [Intro Lab - How to Use an Ammeter to Measure Current](https://www.youtube.com/watch?v=katsdAztvks)  
+
+---
+
+### Objective 10: Describe the Current Characteristics in Series and Parallel Circuits
+- **Series:** Same current everywhere.
+- **Parallel:** Current divides among branches.
+
+**Activity 3:**  
+Use table/photos to compare measured current at different circuit points.
+
+---
+
+## Segment 4: Resistance Measurement
+
+### Objective 11: Define Resistance and Give Its Units of Measurement
+Resistance is how much a material "resists" the flow of electricity—like a narrow pipe slows water flow.  
+**Unit:** Ohm (Ω)
+
+![Resistance analogy](images/resistance-pipe.png)  
+*[Show water pipe analogy with constriction – see SparkFun or Freepik.]*
+
+---
+
+### Objective 12: Describe the Function of Two Types of Ohmmeters and Give Their Schematic Symbol
+Ohmmeters/Multimeters measure resistance.  
+- **Analog:** Needle, scale  
+- **Digital:** Numeric, easy to read  
+**Symbol:** Circle with "Ω" (ohm) inside
+
+![Ohmmeter types and symbols](images/ohmmeter-symbol.jpg)  
+*[Photo or diagram showing both. Use iStock or circuit diagram resources.]*
+
+---
+
+### Objective 13: Describe How to Use an Ohmmeter to Measure Resistance
+Touch both probes to the ends of the part you want to test (not connected to power!).  
+Reads the resistance.
+
+![Using an ohmmeter](images/ohmmeter-measure.jpg)  
+*[Photo with meter probes on resistor]*
+
+---
+
+### Objective 14: Describe the Resistance Characteristics in Series and Parallel Circuits
+- **Series:** Resistance adds up
+- **Parallel:** Total resistance decreases; more paths = easier for current
+
+**Skill 7:**  
+Measure resistance with a DMM at different points; fill in a table or schematic.
+
+---
+
+### Objective 15: Describe Two Methods of Measuring Continuity
+- **Continuity mode on multimeter:** Buzzer sounds if circuit is complete
+- **Ohmmeter method:** Low resistance reading means connection exists
+
+![Continuity testing with DMM](images/continuity-test.jpg)  
+*[Photo: red/black probes on wire ends; DMM beep or display]*
+
+---
+
+### Skills Practice
+
+- **Skill 1:** Use analog voltmeter to measure voltage referenced to ground
+- **Skill 2:** Use DMM for voltage referenced to ground
+- **Skill 3:** Use DMM for voltage drops in series/parallel circuits
+- **Skill 4:** Use DMM to measure current
+- **Skill 5:** Use DMM for current in series/parallel
+- **Skill 6:** Use DMM for resistance of a component
+- **Skill 7:** Measure resistance in series/parallel
+- **Skill 8:** Test wire continuity with a DMM
+
+---
+
