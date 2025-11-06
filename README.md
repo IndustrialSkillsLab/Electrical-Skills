@@ -164,3 +164,68 @@ Manual switches are gates for electricity—flip, press, or turn to control.
 
 ### Objective 9: Function of Three Types of Manual Switch Operators and Give an Application
 - **Toggle:** Light switches
+
+# Module 2: Electrical Measurements
+
+## Segment 1: Voltage Measurement
+
+### Objective 1: Define Voltage and Give Its Units of Measurement
+Voltage is electrical "pressure" that pushes electrons through a circuit—like water pressure moves water through pipes.  
+**Unit:** Volt (V)
+
+![Voltage (water analogy)](images/voltage-pressure.png)  
+*[Use water tank analogy: pressure = voltage. Illustrate using a picture like from Fluke or Freepik]*
+
+**Videos:**  
+- [What is Voltage? | Animated Explainer](https://www.youtube.com/watch?v=_4yo-fYxNjI)  
+- [Voltage, Current, Resistance, and Ohm's Law - SparkFun](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law/all)
+
+---
+
+### Objective 2: Describe the Function of a Voltmeter and Give Its Schematic Symbol
+A voltmeter measures voltage, showing the "push" available to move electrons.  
+**Schematic symbol:** Circle with a letter "V" inside.
+
+![Voltmeter and symbol](images/voltmeter-symbol.jpg)  
+*[Get a simple voltmeter photo and schematic symbol from iStock or AllAboutCircuits]*
+
+**Videos:**  
+- [Intro Lab: How to Use a Voltmeter to Measure Voltage](https://www.youtube.com/watch?v=aQstvlU-B_Y)  
+- [How to Use a Voltmeter - wikiHow](https://www.wikihow.com/Use-a-Voltmeter)
+
+---
+
+### Objective 3: Describe How to Use a Voltmeter to Measure Voltage
+Touch the voltmeter's probes to two points in a circuit—the display shows the voltage between them.
+
+![Measuring voltage in a circuit](images/voltage-measurement.jpg)  
+*[Illustration of probes on battery or lamp circuit – see SparkFun or Fluke]*
+
+**Videos:**  
+- [Intro Lab: How to Use a Voltmeter](https://www.youtube.com/watch?v=aQstvlU-B_Y)
+
+---
+
+### Objective 4: Describe the Function of Two Multimeters: Analog and Digital
+- **Analog Multimeter:** Has a moving needle/scale—good for seeing trends.
+- **Digital Multimeter (DMM):** Displays numbers on a screen—precise and easy to read.
+
+![Analog and digital multimeter comparison](images/multimeter-analog-digital.jpg)  
+*[Side-by-side photo or diagram. See AllAboutCircuits or Enrgtech blogs.]*
+
+**Videos:**  
+- [Analog vs Digital Multimeter](https://www.youtube.com/watch?v=ODU0qIr6U5k)
+
+**Activity 1:**  
+Label the parts of a digital multimeter using a classroom photo or diagram.
+
+---
+
+## Segment 2: Introduction to Series and Parallel Circuits
+
+### Objective 5: Define Series and Parallel Circuits
+- **Series circuit:** All parts connected end-to-end, one path for current.
+- **Parallel circuit:** Each part connected across the same points, multiple paths.
+
+![Series vs parallel circuit diagram](images/series-vs-parallel.png)  
+*
